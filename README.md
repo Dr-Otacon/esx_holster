@@ -31,4 +31,4 @@ Script by Otacon - Founder of Insomnia RP
  
  ## License
 
-- **[GNU General Public License v3.0](https://github.com/halmclamb/esx_holster/blob/master/LICENSE)**
+- **[GNU General Public License v3.0](https://github.com/Dr-Otacon/esx_holster/blob/master/LICENSE)**
