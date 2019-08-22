@@ -15,7 +15,7 @@ Script by Otacon - Founder of Insomnia RP
 
 **This Script allows you to:**
  - select multiple holsters for your character in game and removes pistol when drawn from holster - EUP REQUIRED
- - Changes draw animations baised on gun and holster equipped
+ - Changes draw animations based on gun and holster equipped
  - It removes the ability to draw large guns anywhere and makes players draw them from trunks
  - Large guns show on back and can be pulled when put on back
  - police can draw guns from driver and passenger door as well as trunk and have a reduced draw time
